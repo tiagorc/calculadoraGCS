@@ -5,7 +5,7 @@ class ClasseCalculadora():
 
 		
 if __name__=='__main__':
-	calc = ClasseCalculadora()
+	calculadora = ClasseCalculadora()
 
-	calc.divisao(10,2)
+	calculadora.divisao(10,2)
 	
